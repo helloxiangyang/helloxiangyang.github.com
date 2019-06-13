@@ -1,0 +1,4 @@
+﻿User-agent:*
+Disallow:
+
+Sitemap: http://xiangyang.hzbb8.cn/robots.txt
