@@ -1,4 +1,44 @@
-﻿User-agent:*
-Disallow:
-
-Sitemap: http://xiangyang.hzbb8.cn/robots.txt
+﻿# robots.txt generated at http://www.aizhan.com
+User-agent: Baiduspider
+Allow: /
+User-agent: 360Spider
+Allow: /
+User-agent: sogou spider
+Allow: /
+User-agent: Sosospider
+Allow: /
+User-agent: YodaoBot
+Allow: /
+User-agent: Googlebot
+Allow: /
+User-agent: Bingbot
+Allow: /
+User-agent: Slurp
+Allow: /
+User-agent: Teoma
+Allow: /
+User-agent: ia_archiver
+Allow: /
+User-agent: twiceler
+Allow: /
+User-agent: MSNBot
+Allow: /
+User-agent: Scrubby
+Allow: /
+User-agent: Robozilla
+Allow: /
+User-agent: Gigabot
+Allow: /
+User-agent: googlebot-image
+Allow: /
+User-agent: googlebot-mobile
+Allow: /
+User-agent: yahoo-mmcrawler
+Allow: /
+User-agent: yahoo-blogs/v3.9
+Allow: /
+User-agent: psbot
+Allow: /
+User-agent: *
+Allow: /
+Sitemap: https://songxiangyang.com/sitemap.xml
